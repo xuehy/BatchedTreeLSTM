@@ -1,2 +1,2 @@
 * Coming soon
-** Temporarily see [TreeAttention][https://github.com/xuehy/TreeAttention]
+** Temporarily see [[https://github.com/xuehy/TreeAttention][TreeAttention]]
